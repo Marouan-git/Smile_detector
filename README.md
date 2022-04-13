@@ -6,9 +6,9 @@ Les modèles de détection du visage et du sourire sont issues de l'API Javascri
 
 ## Fonctionnalités
 
-Détecte le sourire sur un visage.
-Compte le nombre de sourires effectués.
-Compte le temps total (en s) passé à sourire.
+Détecte le sourire sur un visage.  
+Compte le nombre de sourires effectués.  
+Compte le temps total (en s) passé à sourire.  
 
 ## Lancement de l'application
 
